@@ -1,0 +1,17 @@
+name = "KNRTUSimD"
+uuid = "bc79aeb4-fe73-4574-80db-3f1c8c4cf8d7"
+authors = ["sorrytell"]
+version = "0.1.0"
+
+[deps]
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+
+[compat]
+ModelingToolkit = "9.60.0"
+
+[dependencies]
+CoolProp = "5ae3f588-6057-5b22-b7b4-620b65e35022"
+DifferentialEquations = "0c46a032-c6b5-5f4c-8e62-4860d8a8b537"
+IfElse = "f2cfc30a-1a53-5470-a036-6b99cb474107"
+ModelingToolkit = "b4f82e3b-b75c-4b71-9f13-bfd2f810db2c"
+Plots = "91a5bcdd-55d2-5e1b-9d8f-8b1bfa16cb4b"
